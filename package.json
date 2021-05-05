@@ -1,0 +1,22 @@
+{
+  "name": "goit-js-hw-09",
+  "version": "1.0.0",
+  "description": "Gallery",
+  "main": "gallery-items.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlayerBS/goit-js-hw-09.git"
+  },
+  "author": "Sergii Bogush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlayerBS/goit-js-hw-09/issues"
+  },
+  "homepage": "https://github.com/SlayerBS/goit-js-hw-09#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
